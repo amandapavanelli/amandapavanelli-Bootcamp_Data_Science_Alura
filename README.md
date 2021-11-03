@@ -1,4 +1,4 @@
-# amandapavanelli-Bootcamp_Data_Science_Alura
+# Módulos-Bootcamp_Data_Science_Alura
 Módulo 01: Python e Pandas para análise de dados reais
 Módulo 02: Visualização de dados com Seaborn e Matplotlib
 Módulo 03: Análise de séries temporais
